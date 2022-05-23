@@ -12,15 +12,6 @@ Total rides were mostly concertrated in the urban city types (68.4%) which is mo
 _Total drivers_
 Total driver followed a synonymous trend and yielded about 81% of total drivers, where as suburband was 16.5% and rural was 2.6%.
 
-_Total fares_
-
-
-_Average fare per ride_
-
-
-_Average fare per driver_
-
-
 _Total fare by city type_
 Total fares by city type results showed that a majority of the markey share comes from the Urban city typ at approximately 63%.
 
